@@ -35,7 +35,7 @@ mov eax, cr3
 ```
 ![image](https://github.com/alzoi/st_os/assets/20499566/e680da1f-1414-4627-bb67-f69140f215ea)
 
-![image](https://github.com/alzoi/st_os/assets/20499566/04e843e9-263a-4fad-bc64-22c1b7c8e906)
+![image](https://github.com/alzoi/st_os/assets/20499566/a10bff77-e1b6-4c47-b66d-db86f9064100)
 
 ![image](https://github.com/alzoi/st_os/assets/20499566/b5adb4d6-e057-48ce-bb98-71772053839f)
 
