@@ -26,6 +26,8 @@ Memory Size = Page Directory * Page Table * Page = 1024 * 1024 * 4096 = 4 294 96
   
 Каталог страниц должен быть выравнен на границу 4 КБ, его адрес будет содержать нули в младших 12 разрядах, а 20 старших, следовательно, будут нести информацию. Эти 20 разрядов и хранятся в регистре CR3 - база каталога страниц (физический адрес расположения PD).
 
+![image](https://github.com/alzoi/st_os/assets/20499566/e680da1f-1414-4627-bb67-f69140f215ea)
+
 ![image](https://github.com/alzoi/st_os/assets/20499566/04e843e9-263a-4fad-bc64-22c1b7c8e906)
 
 ![image](https://github.com/alzoi/st_os/assets/20499566/b5adb4d6-e057-48ce-bb98-71772053839f)
