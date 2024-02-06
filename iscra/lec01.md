@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=I5Cv_cvTaw8&list=PL8_dzIbSKnugf2XGXJE5AMU_qkxOEI
 ![image](https://github.com/alzoi/st_os/assets/20499566/1f2fca4b-017b-49e3-964d-0a7240172714)
 
 ## Ассемблер
-
+https://godbolt.org/  
 ![image](https://github.com/alzoi/st_os/assets/20499566/20273a60-b6dc-4c7f-9d49-1d61f309490e)
 
 ## Виртуальная память
