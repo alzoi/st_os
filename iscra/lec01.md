@@ -26,9 +26,10 @@ Memory Size = Page Directory * Page Table * Page = 1024 * 1024 * 4096 = 4 294 96
 Запись каталога страниц имеет 32 бита, поэтому 2^10 из них умещаются на странице размером 4 КБ.
 
 ![image](https://github.com/alzoi/st_os/assets/20499566/05438ec2-e56b-4654-9670-5dec2997f2df)
+![image](https://github.com/alzoi/st_os/assets/20499566/4bac24dc-f86a-40ca-a8d4-719e369a26bd)
 
 ![image](https://github.com/alzoi/st_os/assets/20499566/8ee54cca-d845-4513-be6a-1f2d494cfe82)
-
+Можно использовать страницы по 4 МБ
 ![image](https://github.com/alzoi/st_os/assets/20499566/2001b8f3-770c-47d5-bb7c-ff5085034c45)
 
 ## Заготовка для разработки ядра ОС
