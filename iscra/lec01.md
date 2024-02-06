@@ -34,5 +34,5 @@ Memory Size = Page Directory * Page Table * Page = 1024 * 1024 * 4096 = 4 294 96
 ![image](https://github.com/alzoi/st_os/assets/20499566/2001b8f3-770c-47d5-bb7c-ff5085034c45)
 
 ## Заготовка для разработки ядра ОС
-https://wiki.osdev.org/Bare_Bones
+https://wiki.osdev.org/Bare_Bones  
 https://wiki.osdev.org/Higher_Half_x86_Bare_Bones
