@@ -21,7 +21,7 @@ https://godbolt.org/
 Memory Size = Page Directory * Page Table * Page = 1024 * 1024 * 4096 = 4 294 967 296 = 4 ГБ
 ![image](https://github.com/alzoi/st_os/assets/20499566/8a897535-0dce-4d71-a5fa-ed31b687066e)
 
-![image](https://github.com/alzoi/st_os/assets/20499566/c7b52fcf-806c-40ad-983d-b6033bcf372e)
+![image](https://github.com/alzoi/st_os/assets/20499566/2001b8f3-770c-47d5-bb7c-ff5085034c45)
 
 ## Заготовка для разработки ядра ОС
 https://wiki.osdev.org/Bare_Bones
