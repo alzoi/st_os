@@ -27,7 +27,8 @@ Memory Size = Page Directory * Page Table * Page = 1024 * 1024 * 4096 = 4 294 96
 
 ![image](https://github.com/alzoi/st_os/assets/20499566/05438ec2-e56b-4654-9670-5dec2997f2df)
 
-![image](https://github.com/alzoi/st_os/assets/20499566/8a897535-0dce-4d71-a5fa-ed31b687066e)
+![image](https://github.com/alzoi/st_os/assets/20499566/8ee54cca-d845-4513-be6a-1f2d494cfe82)
+
 ![image](https://github.com/alzoi/st_os/assets/20499566/e30ad602-5dba-4bec-8fa1-feb7ed12c585)
 ![image](https://github.com/alzoi/st_os/assets/20499566/2001b8f3-770c-47d5-bb7c-ff5085034c45)
 
