@@ -20,3 +20,6 @@ https://www.youtube.com/watch?v=I5Cv_cvTaw8&list=PL8_dzIbSKnugf2XGXJE5AMU_qkxOEI
 В x32 процессорах максимальный объём адресуемой физической памяти равен  
 Memory Size = Page Directory * Page Table * Page = 1024 * 1024 * 4096 = 4 294 967 296 = 4 ГБ
 ![image](https://github.com/alzoi/st_os/assets/20499566/8a897535-0dce-4d71-a5fa-ed31b687066e)
+
+![image](https://github.com/alzoi/st_os/assets/20499566/4cc7bb32-615e-4c04-a16e-430f3c2f2cee)
+
